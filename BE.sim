@@ -1,0 +1,14 @@
+p B vdd 1 2 4
+p C 1 out1 2 4
+n B out1 gnd 2 4
+n C out1 gnd 2 4
+p out1 vdd out2 2 4
+n out1 out2 gnd 2 4
+p A vdd 2 2 4
+p out2 2 out3 2 4
+n A out3 gnd 2 4
+n out2 out3 gnd 2 4
+p out3 vdd out4 2 4
+n out3 out4 gnd 2 4
+p out4 vdd out 2 4
+n out4 out gnd 2 4
