@@ -1,5 +1,5 @@
 # CMOS Circuit Generator
-This repository contains a python script which converts a Boolean Expression to a .sim file which is used for designing CMOS circuits
+This repository contains a python script which converts a Boolean Expression to a .sim file which is used for designing CMOS circuits.
 
 ## Running
 ```
